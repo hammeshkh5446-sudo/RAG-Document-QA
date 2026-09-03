@@ -4,6 +4,12 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload P
 
 The application extracts text from PDF files, creates embeddings using Google's Gemini embedding model, retrieves relevant information, and generates answers grounded in the uploaded document.
 
+## Live Demo
+
+Try the application here:
+
+https://rag-document-app-kr4zrysymskvtdqjcwqbvt.streamlit.app/
+
 ## Features
 
 - Upload PDF documents
